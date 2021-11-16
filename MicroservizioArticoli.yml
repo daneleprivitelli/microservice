@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: MicroserviceArticoli
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://212.131.189.19:30016/corso5
+    username: Daniele
+    password: Corso5!
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8080
