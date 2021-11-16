@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MicroserviceArticoli
+    name: MicroservizioArticoli
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://212.131.189.19:30016/corso5

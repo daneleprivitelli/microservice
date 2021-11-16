@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: MicroservizioRecensioni
+  data:
+    mongodb:
+      uri: mongodb+srv://daniele96:Daniele96_@microservicetest.dfgw4.mongodb.net/MicroserviceArticoliDB?retryWrites=true&w=majority
+server:
+  port: 8081
